@@ -141,22 +141,32 @@
 ## NO APLICA
 <br><br>
 
+---
+
 # Unidad 3
 ## NO APLICA
 <br><br>
+
+---
 
 # Conclusiones Generales
 ## NO APLICA
 <br><br>
 
+---
+
 # Bibliografía
-##fasfas
+#### [1] P. Novara, "PSeInt: Intérprete de pseudocódigo," 2024. [En línea]. Disponible en: http://pseint.sourceforge.net/
+#### [2] Microsoft, "Visual Studio Code," v. 1.88, 2024. [En línea]. Disponible en: https://code.visualstudio.com/
+#### [3] Google Mind, "Gemini: Modelo de lenguaje de gran escala," 2024. [En línea]. Disponible en: https://gemini.google.com/
 <br><br>
 
 <div align="center">
   
 [![Secciones del portafolio](https://img.shields.io/badge/SECCIONES_DEL_PORTAFOLIO-4CAF50?style=for-the-badge)](#secciones-del-portafolio) <br>
 </div>
+
+---
 
 # Declaración uso de IA
 <br><br>
@@ -165,3 +175,5 @@
   
 [![Secciones del portafolio](https://img.shields.io/badge/SECCIONES_DEL_PORTAFOLIO-4CAF50?style=for-the-badge)](#secciones-del-portafolio) <br>
 </div>
+
+---
