@@ -49,15 +49,15 @@
 [![Secciones del portafolio](https://img.shields.io/badge/SECCIONES_DEL_PORTAFOLIO-4CAF50?style=for-the-badge)](#secciones-del-portafolio) <br>
 
 # Unidad 2
-
+## NO APLICA
 <br><br>
 
 # Unidad 3
-#### asjdiwoi
+## NO APLICA
 <br><br>
 
 # Conclusiones Generales
-##sadd
+## NO APLICA
 <br><br>
 
 # Bibliografía
