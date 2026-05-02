@@ -42,8 +42,38 @@
 <br><br>
 
 # Unidad 1
-## Contenidos
-### Algoritmos
+## ***1. Contenidos Teóricos***
+### ***A. Algoritmo*** 
+#### - Un algoritmo es una secuencia de pasos lógicos, definidos y finitos que deben seguirse para realizar una tarea y resolver un problema determinado.
+<div align="center">
+  <img src="https://capiremov.org/wp-content/uploads/2021/07/algoritmo.jpg" width= "400px"> <br>
+</div>
+
+### ***B. Pseudocódigo***
+#### - El pseudocódigo es una forma de representar un algoritmo mediante una mezcla del lenguaje coloquial (español o ingles) y las estructuras de programación, permitiendo planificar la lógica y simplificar los pasos que un algoritmo debe seguir. 
+<div align="center">
+  <img src="https://i.blogs.es/18edf0/pseudo_codigo_ejemplo/450_1000.webp" width= "450px"> <br>
+</div>
+
+### ***C. Diagrama de Flujo***
+#### - El diagrama de flujo es una herramienta gráfica que nos permite analizar y visualizar la lógica de un codigo mediante símbolos geométricos que muestran la secuencia de pasos lógicos.
+<div align="center">
+  <img src="" width= "450px"> <br>
+</div>
+
+### ***D. Prueba de Escritorio***
+#### - Las pruebas de escritorio son ejercicios manuales que nos permiten comprobar lógicamente un algoritmo, detectando errores en la lógica o dentro de los cálculos matemáticos y verificando el comportamiento del código paso a paso.
+<div align="center">
+  <img src="" width= "450px"> <br>
+</div>
+
+### ***E. Lenguajes de Programación***
+### - 
+### ***F. Programación por Bloques***
+### - La programación por bloques es un método visual diseñado para principiantes y niños dentro de este ámbito que consta en crear software arrastrando y ensamblando piesas lógicas (bloques) en lugar de escribir el código por texto. 
+## 2. Ejercicio con Estructura Secuencial
+
+## 3. Reflexión Crítica
 <br>
 
 [![Secciones del portafolio](https://img.shields.io/badge/SECCIONES_DEL_PORTAFOLIO-4CAF50?style=for-the-badge)](#secciones-del-portafolio) <br>
