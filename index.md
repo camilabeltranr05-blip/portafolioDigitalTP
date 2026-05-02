@@ -53,7 +53,7 @@
 #### asjdiwoi
 <br><br>
 
-# Conclusiones Generales
+# Conclusiones generales
 ##sadd
 <br><br>
 
@@ -61,4 +61,4 @@
 ##fasfas
 <br><br>
 
-# Declaración Uso De IA
+# Declaración uso de IA
