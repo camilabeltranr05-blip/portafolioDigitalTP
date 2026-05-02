@@ -72,8 +72,8 @@
 </div>
 
 >### ***E. Lenguajes de Programación*** 
-#### Los lenguajes de programación son herramientas que nos permiten mediante la comunicación entre el pensamiento lógico y el hardware de un computador. Dentro de los lenguajes de programación hay varios niveles:
-- Lenguajes de pseudocódigo: Se enfocan en facilitar la comprensión para quien maneja el lenguaje, en esta sección es donde se utiliza "PSeInt", que nos permite estructurar la lógica que esta dentro del algoritmo mediante un pseudocódigo y diagramas de flujo.
+#### Los lenguajes de programación son herramientas que nos permiten mediante la comunicación entre el pensamiento lógico y el hardware de un computador. Dentro de los lenguajes de programación existen estos niveles:
+- Lenguajes de pseudocódigo: Se enfocan en facilitar la comprensión para quien maneja el lenguaje, en esta sección es donde se utiliza "PSeInt", que nos permite estructurar la lógica de un algoritmo mediante un pseudocódigo y diagramas de flujo.
 - Lenguajes de programación estructurada: Son lenguajes que nos permiten un control más directo sobre el sistema. Durante esta unidad se trabajo con "C", un lenguaje de nivel medio que exige el manejo de librerías, tipos de datos y una sintaxis estricta.
 
 >### ***F. Programación por Bloques***
