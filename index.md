@@ -29,7 +29,10 @@
   
 ## SECCIONES DEL PORTAFOLIO
   
-[![Unidad 1](https://img.shields.io/badge/ACCEDER_A_UNIDAD_1-4CAF50?style=for-the-badge)](#unidad-1)
+[![Unidad 1](https://img.shields.io/badge/UNIDAD_1-4CAF50?style=for-the-badge)](#unidad-1)<br>
+[![Unidad 2](https://img.shields.io/badge/UNIDAD_2-F44336?style=for-the-badge)](#unidad-2)<br>
+[![Unidad 3](https://img.shields.io/badge/UNIDAD_3-4CAF50?style=for-the-badge)](#unidad-3)<br>
+
 </div>
 
 <br><br>
@@ -37,4 +40,11 @@
 # Unidad 1
 ## Contenidos
 ### Algoritmos
+<br><br>
+# Unidad 2
+
+<br><br>
+
+# Unidad 3
 #### asjdiwoi
+<br><br>
