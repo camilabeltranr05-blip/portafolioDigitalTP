@@ -1,6 +1,6 @@
 <div align= "center">
 
-  <img src= "https://redi.cedia.edu.ec/members/UNL.png" width= "230px"> <br>
+  <img src= "https://redi.cedia.edu.ec/members/UNL.png" width= "230px"/> <br>
   # UNIVERSIDAD NACIONAL DE LOJA  
   ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES 
   ## CARRERA DE COMPUTACIÓN 
@@ -46,38 +46,93 @@
 ### ***A. Algoritmo*** 
 #### - Un algoritmo es una secuencia de pasos lógicos, definidos y finitos que deben seguirse para realizar una tarea y resolver un problema determinado.
 <div align="center">
-  <img src="https://capiremov.org/wp-content/uploads/2021/07/algoritmo.jpg" width= "400px"> <br>
+  Ejemplo: <p>
+  <img src="https://capiremov.org/wp-content/uploads/2021/07/algoritmo.jpg" width= "400px"/> 
 </div>
 
 ### ***B. Pseudocódigo***
-#### - El pseudocódigo es una forma de representar un algoritmo mediante una mezcla del lenguaje coloquial (español o ingles) y las estructuras de programación, permitiendo planificar la lógica y simplificar los pasos que un algoritmo debe seguir. 
+#### - El pseudocódigo es una forma de representar un algoritmo mediante una mezcla del lenguaje coloquial (español o ingles) y las estructuras de programación, permitiendo planificar la lógica y simplificar los pasos que un algoritmo debe seguir.
 <div align="center">
-  <img src="https://i.blogs.es/18edf0/pseudo_codigo_ejemplo/450_1000.webp" width= "450px"> <br>
+  Ejemplo: <p>
+  <img width="679" height="380" alt="Image" src="https://github.com/user-attachments/assets/1d027a2a-0aa9-458d-8f5e-a981a5cb50de"/>
 </div>
 
 ### ***C. Diagrama de Flujo***
-#### - El diagrama de flujo es una herramienta gráfica que nos permite analizar y visualizar la lógica de un codigo mediante símbolos geométricos que muestran la secuencia de pasos lógicos.
+#### - El diagrama de flujo es una herramienta gráfica que nos permite analizar y visualizar la lógica de un codigo mediante símbolos geométricos que muestran la secuencia de pasos lógicos. 
 <div align="center">
-  <img src="" width= "450px"> <br>
+  Ejemplo: <p>
+  <img width="452" height="672" alt="Image" src="https://github.com/user-attachments/assets/8f578b07-977b-4863-a8cd-89f4f1e9aafb"/> 
 </div>
 
 ### ***D. Prueba de Escritorio***
-#### - Las pruebas de escritorio son ejercicios manuales que nos permiten comprobar lógicamente un algoritmo, detectando errores en la lógica o dentro de los cálculos matemáticos y verificando el comportamiento del código paso a paso.
+#### - Las pruebas de escritorio son ejercicios manuales que nos permiten comprobar lógicamente un algoritmo, detectando errores en la lógica o dentro de los cálculos matemáticos y verificando el comportamiento del código paso a paso. 
 <div align="center">
-  <img src="" width= "450px"> <br>
+  Ejemplo: <p>
+  <img width="605" height="244" alt="Image" src="https://github.com/user-attachments/assets/f0280685-398e-47dc-a400-25817be55f19" />
 </div>
 
-### ***E. Lenguajes de Programación***
+### ***E. Lenguajes de Programación*** 
 ### - 
 ### ***F. Programación por Bloques***
-### - La programación por bloques es un método visual diseñado para principiantes y niños dentro de este ámbito que consta en crear software arrastrando y ensamblando piesas lógicas (bloques) en lugar de escribir el código por texto. 
+#### - La programación por bloques es un método visual diseñado para principiantes y niños que consta en crear software arrastrando y ensamblando piesas lógicas (bloques) en lugar de escribir el código por texto. 
+<div align="center">
+  Ejemplo: <p>
+  <img src= "https://formacion.intef.es/aulaenabierto/pluginfile.php/6032/mod_book/chapter/6589/imagen%20%2810%29.png" width= "350px"/> 
+</div>
+
+---
+
 ## 2. Ejercicio con Estructura Secuencial
 
+### ***A. Planteamiento del problema***
+#### ***Problema:*** "Se requiere diseñar un algoritmo para una estación de servicio que automatice el cobro de combustible. Debido a que los surtidores miden el volumen en galones, pero el precio oficial está regulado por litro ($0.72 USD), el sistema debe solicitar la cantidad de galones despachados y realizar la conversión técnica necesaria (1 galón = 3.785 litros) para emitir una factura con el total a pagar por el cliente."
+
+### ***B. Análisis del problema***
+#### ***1. Datos de Entrada:*** 
+#### - Cantidad de galones ingresados por el usuario.<p>
+#### ***2. Procesos:*** 
+#### - Conversión de galones a litros (Litro = Galón * 3.785). <p>
+#### - Calcular el monto total a pagar (Precio = Litro * 0.72). <p>
+#### ***3. Salida:*** 
+#### - La cantidad de galones convertida a litros y el valor total a cancelar por cada litro en dólares. <p>
+
+### ***C. Diseño del algoritmo***
+
+#### ***1. Pseudocódigo***
+##### ***Pseudocódigo en PSeInt:***
+<div align="center">
+  <img width="999" height="583" alt="Image" src="https://github.com/user-attachments/assets/329034a9-e439-418e-86dd-22ca2bdf571d"/>
+</div>
+
+#### ***2. Diagrama de Flujo*** 
+<div align="center">
+  <img width="457" height="672" alt="Image" src="https://github.com/user-attachments/assets/d3bd1a60-4c19-4fdc-91f4-089023fcde70"/>
+</div>
+
+### ***D. Codificación***
+#### ***1. Codificación en C***
+<div align="center">
+  <img width="965" height="673" alt="Image" src="https://github.com/user-attachments/assets/7b96231d-6125-4825-9eb2-f290bf58e60a"/>
+</div>
+
+### ***E. Validación***
+
+---
+
 ## 3. Reflexión Crítica
+
+
 <br>
 
+<div align="center">
+  
 [![Secciones del portafolio](https://img.shields.io/badge/SECCIONES_DEL_PORTAFOLIO-4CAF50?style=for-the-badge)](#secciones-del-portafolio) <br>
+</div>
 
+<p><p>
+  
+---
+  
 # Unidad 2
 ## NO APLICA
 <br><br>
