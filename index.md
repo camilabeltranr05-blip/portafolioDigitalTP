@@ -67,8 +67,13 @@
 >### ***D. Prueba de Escritorio***
 - #### Las pruebas de escritorio son ejercicios manuales que nos permiten comprobar lógicamente un algoritmo, detectando errores en la lógica o dentro de los cálculos matemáticos y verificando el comportamiento del código paso a paso. 
 <div align="center">
-  Ejemplo: <p>
-  <img width="605" height="244" alt="Image" src="https://github.com/user-attachments/assets/f0280685-398e-47dc-a400-25817be55f19"/>
+  
+  ***Área de un triángulo:***
+  
+  |**Datos de entrada** | **Proceso** | **Salida** |
+  |---|---|---|
+  Base = 4 metros y  Altura = 5 metros | Area = (4 * 5)/2 | Area = 10 m² |
+  
 </div>
 
 >### ***E. Lenguajes de Programación*** 
@@ -104,13 +109,13 @@
 #### ***1. Pseudocódigo***
 - ##### ***Pseudocódigo en PSeInt:***
 <div align="center">
-  <img width="782" height="609" alt="Image" src="https://github.com/user-attachments/assets/409e71fc-e9b7-4a3f-9850-e4fddab35dc0"/>
+  <img width="804" height="591" alt="Image" src="https://github.com/user-attachments/assets/78074a85-6951-43fc-aaec-39065a403adf"/>
 </div>
 
 #### ***2. Diagrama de Flujo*** 
 <div align="center">
-  <img width="474" height="675" alt="Image" src="https://github.com/user-attachments/assets/2bd1a890-e029-4a32-934a-099274ba661e"/>
- </div>
+  <img width="514" height="677" alt="Image" src="https://github.com/user-attachments/assets/ae656412-6a94-4a83-b9c0-6264a903f2ed"/>  
+</div>
 
 >### ***D. Codificación***
 #### ***1. Codificación en C***
@@ -121,8 +126,21 @@
 >### ***E. Validación***
 - #### Para comprobar el correcto funcionamiento del pseudocódigo elaborado mediante pseint y c, realizamos la siguiente prueba de escritorio:
 <div align="center">
-  <img width="537" height="442" alt="Image" src="https://github.com/user-attachments/assets/bae10b52-dbc7-4748-8ec7-ed983b7e8d82"/>
+  
+  ***Conversión de galones a litros:***
+  
+  |**Datos de entrada** | **Proceso** | **Salida** |
+  |---|---|---|
+  Cantidad de galones = 4 galones | Litros = 4 galones * 3.785 | Litros = 15.14 Litros |
+  
+  ***Cantidad a pagar por cada litro:***
+     
+  |**Dato de Emtrada** | **Proceso** | **Nuevo dato de salida** |
+  |---|---|---|
+  Cantidad de Litro = 15.14 | Precio = 15.14 * 0.72 | Precio = 10.90 |
+  
 </div>
+
 
 ---
 
