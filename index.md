@@ -172,10 +172,10 @@
   <img width="679" height="380" alt="Image" src="https://github.com/user-attachments/assets/1d027a2a-0aa9-458d-8f5e-a981a5cb50de"/>
 </div>
 
->### ***C. Ejercicio con estructura condicional y repetitiva***
-- #### Planteamiento del problema:
-- #### Análisis del problema:
-- #### Diseño del algoritmo (Diagrama de flujo): 
+>## ***2. Ejercicio con estructura condicional y repetitiva***
+- ### A. Planteamiento del problema:
+- ### B. Análisis del problema:
+- ### C. Diseño del algoritmo (Diagrama de flujo): 
 <div align="center">
   <img width="452" height="672" alt="Image" src="xx"/> 
 </div>
@@ -185,7 +185,7 @@
 </div>
 - #### Validación (Código fuente): 
 
-## 2. Reflexión Crítica
+## 3. Reflexión Crítica
 - #### xx
 
 <br>
