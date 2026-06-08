@@ -161,7 +161,15 @@
 # Unidad 2
 ## ***1. Contenidos Teóricos***
 >### ***A. Estructuras Condicionales*** 
-- #### xx
+#### Estructura condicional simple (si / if):
+- #### Diagrama de flujo:
+- #### Pseudocódigo:
+#### Estructura condicional doble (si - sino / if - else):
+- #### Diagrama de flujo:
+- #### Pseudocódigo:
+#### Estructura condicional múltiple (switch case):
+- #### Diagrama de flujo:
+- #### Pseudocódigo:
 <div align="center">
 </div>
 
