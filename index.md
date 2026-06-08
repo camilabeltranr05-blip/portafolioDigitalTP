@@ -161,7 +161,7 @@
 # Unidad 2
 ## ***1. Contenidos Teóricos***
 >### ***A. Estructuras Condicionales*** 
-#### **1. Estructura condicional simple (si / if):** <br> Esta estructura evalúa una condición lógica. Si el resultado de la evaluación es verdadero, se ejecuta un bloque específico de código. Si es falso, el programa ignora dicho bloque y continúa con la ejecución de la siguiente línea secuencial.
+***1. Estructura condicional simple (si / if):*** <br> Esta estructura evalúa una condición lógica. Si el resultado de la evaluación es verdadero, se ejecuta un bloque específico de código. Si es falso, el programa ignora dicho bloque y continúa con la ejecución de la siguiente línea secuencial.
 - #### ***Diagrama de flujo:***
 <div align="center">
   <img width="316" height="217" alt="Image" src="https://github.com/user-attachments/assets/2baf2bb6-eced-4b60-9bc5-83c1305fb067" />
