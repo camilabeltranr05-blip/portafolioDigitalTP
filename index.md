@@ -144,7 +144,7 @@
 
 ---
 
->### ***3. Reflexión Crítica***
+>### 3. Reflexión Crítica
 - #### Durante el proceso de esta primera unidad he podido comprender que para poder programar necesito mejorar mi análisis lógico para poder resolver problemas mediante algoritmos de forma eficiente y rapida. Además durante el transcurso de la unidad 1, logré conocer varios lenguajes de programación que son muy utilizados, herramientas como PSeInt son muy esenciales cuando estamos empezando dentro del mundo de la programación ya que nos permite analizar el algoritmo mediante el pseudocódigo y el diagrama de flujo, permitiendo descomponer problemas complejos en pasos secuenciales faciles de seguir. Posteriormente, al migrar hacia el lenguaje C he adquirido aún más conocimientos sobre las miles de funciones que tiene este lenguaje, desde la declaración de variables hasta las diferentes librerias que existen y que resuelven muchos problemas. Para finalizar, esta unidad me ha llamado mucho la atención y me ha permitido familiarizarme con los lenguajes de programación (PSeInt y C) logrando transformar mi perspectiva al mejorar mi comprensión lógica para resolver problemas mediante algoritmos.
 
 <br>
