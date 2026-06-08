@@ -166,6 +166,7 @@
 <div align="center">
   <img width="316" height="217" alt="Image" src="https://github.com/user-attachments/assets/2baf2bb6-eced-4b60-9bc5-83c1305fb067" />
 </div>
+
 - #### ***Pseudocódigo:*** <br>
 <div align="center">
   <img width="302" height="104" alt="Image" src="https://github.com/user-attachments/assets/a9272e40-f1bb-45a1-a314-0d805adbacbc" />
@@ -176,6 +177,7 @@
 <div align="center">
   <img width="329" height="203" alt="Image" src="https://github.com/user-attachments/assets/c2306046-a9a6-4be9-822d-2f52a6df3e9a" />
 </div>
+
 - #### ***Pseudocódigo:*** <br>
 <div align="center">
   <img width="304" height="125" alt="Image" src="https://github.com/user-attachments/assets/94d6da8e-1c23-495c-ac01-2447abc07f02" />
@@ -186,7 +188,8 @@
 <div align="center">
   <img width="660" height="279" alt="Image" src="https://github.com/user-attachments/assets/62cc9f54-7d90-418a-9030-2d7b01d63f82" />
 </div>
-- #### ***Pseudocódigo:*** <br>
+
+- ##### ***Pseudocódigo:***
 <div align="center">
   <img width="327" height="191" alt="Image" src="https://github.com/user-attachments/assets/32c0f9e1-35e8-451d-88d9-b2cf40d96d6b" />
 </div>
