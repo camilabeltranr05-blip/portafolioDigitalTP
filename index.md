@@ -159,8 +159,36 @@
 ---
   
 # Unidad 2
-## NO APLICA
-<br><br>
+## ***1. Contenidos Teóricos***
+>### ***A. Estructuras Condicionales*** 
+- #### xx
+<div align="center">
+</div>
+
+>### ***B. Estructuras Repetitivas***
+- #### xx
+<div align="center">
+  Ejemplo: <p>
+  <img width="679" height="380" alt="Image" src="https://github.com/user-attachments/assets/1d027a2a-0aa9-458d-8f5e-a981a5cb50de"/>
+</div>
+
+>### ***C. Ejercicio con estructura condicional y repetitiva***
+- #### Planteamiento del problema:
+- #### Análisis del problema:
+- #### Diseño del algoritmo (Diagrama de flujo): 
+<div align="center">
+  <img width="452" height="672" alt="Image" src="xx"/> 
+</div>
+- #### Codificación (Prueba de escritorio): 
+<div align="center">
+  <img width="452" height="672" alt="Image" src="xx"/> 
+</div>
+- #### Validación (Código fuente): 
+
+## 2. Reflexión Crítica
+- #### xx
+
+<br>
 
 ---
 
