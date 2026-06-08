@@ -161,7 +161,7 @@
 # Unidad 2
 ## ***1. Contenidos Teóricos***
 >### ***A. Estructuras Condicionales*** 
-#### 1. Estructura condicional simple (si / if): <br> Esta estructura evalúa una condición lógica. Si el resultado de la evaluación es verdadero, se ejecuta un bloque específico de código. Si es falso, el programa ignora dicho bloque y continúa con la ejecución de la siguiente línea secuencial.
+#### **1. Estructura condicional simple (si / if):** <br> Esta estructura evalúa una condición lógica. Si el resultado de la evaluación es verdadero, se ejecuta un bloque específico de código. Si es falso, el programa ignora dicho bloque y continúa con la ejecución de la siguiente línea secuencial.
 - #### ***Diagrama de flujo:***
 <div align="center">
   <img width="316" height="217" alt="Image" src="https://github.com/user-attachments/assets/2baf2bb6-eced-4b60-9bc5-83c1305fb067" />
@@ -172,7 +172,7 @@
   <img width="302" height="104" alt="Image" src="https://github.com/user-attachments/assets/a9272e40-f1bb-45a1-a314-0d805adbacbc" />
 </div>
 
-#### 2. Estructura condicional doble (si - sino / if - else): <br> Permite al programa tomar una decisión entre dos opciones exclusivas. Si la condición evaluada resulta verdadera, se ejecuta un grupo de instrucciones específico y si es falsa, se ejecuta obligatoriamente un camino de código alternativo.
+#### **2. Estructura condicional doble (si - sino / if - else):** <br> Permite al programa tomar una decisión entre dos opciones exclusivas. Si la condición evaluada resulta verdadera, se ejecuta un grupo de instrucciones específico y si es falsa, se ejecuta obligatoriamente un camino de código alternativo.
 - #### ***Diagrama de flujo:***
 <div align="center">
   <img width="329" height="203" alt="Image" src="https://github.com/user-attachments/assets/c2306046-a9a6-4be9-822d-2f52a6df3e9a" />
@@ -183,7 +183,7 @@
   <img width="304" height="125" alt="Image" src="https://github.com/user-attachments/assets/94d6da8e-1c23-495c-ac01-2447abc07f02" />
 </div>
 
-#### 3. Estructura condicional múltiple (switch case): <br> El switch case es como un menú de opciones: evalúa una sola variable y salta directamente al caso (case) que coincida con su valor, evitando usar muchos if seguidos. Cada opción requiere un break para detenerse, y un default por si ninguna coincide.
+#### **3. Estructura condicional múltiple (switch case):** <br> El switch case es como un menú de opciones: evalúa una sola variable y salta directamente al caso (case) que coincida con su valor, evitando usar muchos if seguidos. Cada opción requiere un break para detenerse, y un default por si ninguna coincide.
 - #### ***Diagrama de flujo:***
 <div align="center">
   <img width="660" height="279" alt="Image" src="https://github.com/user-attachments/assets/62cc9f54-7d90-418a-9030-2d7b01d63f82" />
