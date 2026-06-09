@@ -154,7 +154,7 @@
 [![Secciones del portafolio](https://img.shields.io/badge/SECCIONES_DEL_PORTAFOLIO-4CAF50?style=for-the-badge)](#secciones-del-portafolio) <br>
 </div>
 
-<p><p>
+<br><br><br><br>
   
 ---
   
@@ -282,9 +282,15 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 ---
 
 ## 3. Reflexión Crítica
-- #### xx
 
-<br>
+- Al finalizar con la unidad 2, he podido concluir que durante este periodo logré adquirir conocimientos sobre los tipos de estructuras que existen dentro del mundo de la programación. Las estructuras condicionales y repetitivas permiten mantener un mayor control del programa, transformando un algoritmo deficiente en uno inteligente, autónomo y práctico, obligandonos a estructurar y diseñar el algoritmo con pensamiento lógico. Asimismo, aprendí que la programación no se trata de improvisar pasos y estructuras, primero se necesita desarrollar, mediante un pensamiento lógico, la estructura del algoritmo empleando análisis y planificación para controlar el flujo de datos y evitar fallos críticos con bucles infinitos.
+
+<div align="center">
+  
+[![Secciones del portafolio](https://img.shields.io/badge/SECCIONES_DEL_PORTAFOLIO-4CAF50?style=for-the-badge)](#secciones-del-portafolio) <br>
+</div>
+
+<br><br><br><br>
 
 ---
 
