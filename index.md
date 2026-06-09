@@ -233,12 +233,12 @@
 >## ***2. Ejercicio con estructura condicional y repetitiva***
 
 - ### A. Planteamiento del problema:
->#### ***Descripción:*** El programa tiene como objetivo registrar y verificar de forma secuencial el estado académico de un grupo de estudiantes de la Universidad Nacional de Loja. El usuario debe indicar inicialmente el número total de estudiantes que desea evaluar. Posteriormente, para cada estudiante, el sistema debe solicitar la calificación o promedio final obtenido.
-***Reglas:***
-Si la nota está en el rango de 7.0 a 10.0, se muestra en pantalla: "Estudiante APROBADO".
-Si la nota está en el rango de 5.0 a menos de 7.0, se muestra en pantalla: "Estudiante en SUPLETORIO".
-Si la nota está en el rango de 0.0 a menos de 5.0, se muestra en pantalla: "Estudiante REPROBADO".
-Si se ingresa una nota fuera del rango permitido (nota< 0 o nota> 10), el programa debe volver a solicitar la calificación haciendo uso de un ciclo de validación interactivo.
+#### ***Descripción:*** El programa tiene como objetivo registrar y verificar de forma secuencial el estado académico de un grupo de estudiantes de la Universidad Nacional de Loja. El usuario debe indicar inicialmente el número total de estudiantes que desea evaluar. Posteriormente, para cada estudiante, el sistema debe solicitar la calificación o promedio final obtenido. <br>
+***Reglas:*** <br>
+Si la nota está en el rango de 7.0 a 10.0, se muestra en pantalla: "Estudiante APROBADO".<br>
+Si la nota está en el rango de 5.0 a menos de 7.0, se muestra en pantalla: "Estudiante en SUPLETORIO".<br>
+Si la nota está en el rango de 0.0 a menos de 5.0, se muestra en pantalla: "Estudiante REPROBADO".<br>
+Si se ingresa una nota fuera del rango permitido (nota< 0 o nota> 10), el programa debe volver a solicitar la calificación haciendo uso de un ciclo de validación interactivo.<br>
 
 - ### B. Análisis del problema:
 - ### C. Diseño del algoritmo (Diagrama de flujo): 
@@ -246,12 +246,12 @@ Si se ingresa una nota fuera del rango permitido (nota< 0 o nota> 10), el progra
   <img width="452" height="672" alt="Image" src="xx"/> 
 </div>
 
-- #### Codificación (Prueba de escritorio): 
+- ### D. Codificación (Prueba de escritorio): 
 <div align="center">
   s
 </div>
 
-- #### Validación (Código fuente): 
+- ### E. Validación (Código fuente): 
 <div align="center">
   <img width="896" height="450" alt="Image" src="https://github.com/user-attachments/assets/fa8953e5-02d7-49f7-87c1-68c0a03aa324" />
 </div>
