@@ -247,7 +247,7 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 
 <div align="center">
   
-  ***TIPO DE DATOS***
+  ***TIPOS DE DATOS***
   
   |**Datos de entrada** | **Proceso** | **Salida** |
   |---|---|---|
@@ -258,7 +258,7 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 
 >### C. Diseño del algoritmo (Diagrama de flujo): 
 <div align="center">
-  <img width="452" height="672" alt="Image" src="xx"/> 
+  <img width="746" height="1646" alt="Image" src="https://github.com/user-attachments/assets/765f7436-1dcc-4979-9bfe-88fb7a69af0e" />
 </div>
 
 >### D. Codificación (Código fuente):
