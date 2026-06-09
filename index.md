@@ -195,7 +195,7 @@
 </div>
 
 >### ***B. Estructuras Repetitivas***
-***1. Estructura repetitiva (mientras / while):*** <br> Xx
+***1. Estructura repetitiva (mientras / while):*** <br> Es un bucle que pregunta primero y actúa después. Evalúa la condición antes de ejecutar el código, si la condición es falsa desde el inicio, el bloque de instrucciones nunca se ejecuta.
 - #### ***Diagrama de flujo:***
 <div align="center">
   <img width="211" height="189" alt="Image" src="https://github.com/user-attachments/assets/25afe9a7-6753-4daf-8499-ec5e02f84e3e" />
@@ -206,7 +206,7 @@
   <img width="279" height="113" alt="Image" src="https://github.com/user-attachments/assets/f4d18259-d868-4351-b6e9-933ccf0e44a9" />
 </div>
 
-***2. Estructura repetitiva (hacer mientras / do while):*** <br> X
+***2. Estructura repetitiva (hacer mientras / do while):*** <br> Es un bucle que actúa primero y pregunta después. El bloque de código se ejecuta obligatoriamente al menos una vez, ya que la condición lógica se evalúa al final del ciclo.
 - #### ***Diagrama de flujo:***
 <div align="center">
   <img width="174" height="171" alt="Image" src="https://github.com/user-attachments/assets/8eea2c08-ea7d-425c-950d-e5193306bf28" />
@@ -217,7 +217,7 @@
   <img width="233" height="129" alt="Image" src="https://github.com/user-attachments/assets/53510c49-b62f-4214-97b1-21979097717c" />
 </div>
 
-***3. Estructura repetitiva (para / for):*** <br> X
+***3. Estructura repetitiva (para / for):*** <br> Es un bucle diseñado para cuando sabemos exactamente cuántas veces queremos repetir el bloque de código. Integra de forma automática tres cosas en una sola línea: la variable que cuenta las vueltas (inicio), la condición de parada y el aumento o disminución del contador.
 - #### ***Diagrama de flujo:***
 <div align="center">
   <img width="225" height="183" alt="Image" src="https://github.com/user-attachments/assets/b3f5b0b4-8b02-4d60-9527-d99fc982634c" />
@@ -227,20 +227,25 @@
 <div align="center">
   <img width="403" height="162" alt="Image" src="https://github.com/user-attachments/assets/34520236-ba18-41eb-a87f-5cb2f8717dcc" />
 </div>
+
 ---
+
 >## ***2. Ejercicio con estructura condicional y repetitiva***
+
 - ### A. Planteamiento del problema:
 - ### B. Análisis del problema:
 - ### C. Diseño del algoritmo (Diagrama de flujo): 
 <div align="center">
   <img width="452" height="672" alt="Image" src="xx"/> 
 </div>
+
 - #### Codificación (Prueba de escritorio): 
 <div align="center">
   <img width="452" height="672" alt="Image" src="xx"/> 
 </div>
 - #### Validación (Código fuente): 
 
+---
 ## 3. Reflexión Crítica
 - #### xx
 
