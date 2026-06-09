@@ -330,7 +330,7 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 
 # Declaración uso de IA
 ####
-- Para el desarrollo de este portafolio digital, se ha utilizado la ayuda de la inteligencia artificial "Gemini" como herramienta de soporte técnico, apoyandome durante el proceso para ordenar los contenidos y el diseño estético mediante el uso de Markdown, como el uso de etiquetas de html para centrar textos, la integración de imágenes y el diseño de botónes funcionales dentro de mi portafolio digital. 
+- Para el desarrollo de este portafolio digital se ha utilizado la ayuda de la inteligencia artificial "Gemini" como herramienta de soporte técnico, apoyandome durante el proceso para ordenar los contenidos y el diseño estético mediante el uso de markdown, el uso de etiquetas de html para centrar textos, la integración de imágenes y el diseño de botónes funcionales dentro de mi portafolio digital. 
 <br><br>
 
 <div align="center">
