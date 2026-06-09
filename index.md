@@ -307,10 +307,12 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 ---
 
 # Bibliografía
-#### [1] P. Novara, "PSeInt: Intérprete de pseudocódigo," 2024. [En línea]. Disponible en: http://pseint.sourceforge.net/
-#### [2] Microsoft, "Visual Studio Code," v. 1.88, 2024. [En línea]. Disponible en: https://code.visualstudio.com/
-#### [3] JGraph Ltd., draw.io (o diagrams.net), versión 24.4.0. [Software de computación]. Reino Unido, 2026. Disponible en: https://app.diagrams.net/
-#### [4] Google Mind, "Gemini: Modelo de lenguaje de gran escala," 2024. [En línea]. Disponible en: https://gemini.google.com/
+####
+- [1] P. Novara, "PSeInt: Intérprete de pseudocódigo," 2024. [En línea]. Disponible en: http://pseint.sourceforge.net/
+- [2] Microsoft, "Visual Studio Code," v. 1.88, 2024. [En línea]. Disponible en: https://code.visualstudio.com/
+- [3] JGraph Ltd., draw.io (o diagrams.net), versión 24.4.0. [Software de computación]. Reino Unido, 2026. Disponible en: https://app.diagrams.net/
+- [4] Google Mind, "Gemini: Modelo de lenguaje de gran escala," 2024. [En línea]. Disponible en: https://gemini.google.com/
+
 <br><br>
 
 <div align="center">
