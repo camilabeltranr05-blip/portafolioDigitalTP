@@ -230,7 +230,7 @@
 
 ---
 
->## ***2. Ejercicio con estructura condicional y repetitiva***
+## ***2. Ejercicio con estructura condicional y repetitiva***
 
 >### A. Planteamiento del problema:
 
