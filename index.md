@@ -195,12 +195,38 @@
 </div>
 
 >### ***B. Estructuras Repetitivas***
-- #### xx
+***1. Estructura repetitiva (mientras / while):*** <br> Xx
+- #### ***Diagrama de flujo:***
 <div align="center">
-  Ejemplo: <p>
-  <img width="679" height="380" alt="Image" src="https://github.com/user-attachments/assets/1d027a2a-0aa9-458d-8f5e-a981a5cb50de"/>
+  <img width="211" height="189" alt="Image" src="https://github.com/user-attachments/assets/25afe9a7-6753-4daf-8499-ec5e02f84e3e" />
 </div>
 
+- #### ***Pseudocódigo:*** <br>
+<div align="center">
+  <img width="279" height="113" alt="Image" src="https://github.com/user-attachments/assets/f4d18259-d868-4351-b6e9-933ccf0e44a9" />
+</div>
+
+***2. Estructura repetitiva (hacer mientras / do while):*** <br> X
+- #### ***Diagrama de flujo:***
+<div align="center">
+  <img width="174" height="171" alt="Image" src="https://github.com/user-attachments/assets/8eea2c08-ea7d-425c-950d-e5193306bf28" />
+</div>
+
+- #### ***Pseudocódigo:*** <br>
+<div align="center">
+  <img width="233" height="129" alt="Image" src="https://github.com/user-attachments/assets/53510c49-b62f-4214-97b1-21979097717c" />
+</div>
+
+***3. Estructura repetitiva (para / for):*** <br> X
+- #### ***Diagrama de flujo:***
+<div align="center">
+  <img width="225" height="183" alt="Image" src="https://github.com/user-attachments/assets/b3f5b0b4-8b02-4d60-9527-d99fc982634c" />
+</div>
+
+- #### ***Pseudocódigo:*** <br>
+<div align="center">
+  <img width="403" height="162" alt="Image" src="https://github.com/user-attachments/assets/34520236-ba18-41eb-a87f-5cb2f8717dcc" />
+</div>
 ---
 >## ***2. Ejercicio con estructura condicional y repetitiva***
 - ### A. Planteamiento del problema:
