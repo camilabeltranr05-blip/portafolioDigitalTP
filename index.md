@@ -237,7 +237,7 @@
 ### ***Descripción:*** 
 El programa tiene como objetivo registrar y verificar de forma secuencial el estado académico de un grupo de estudiantes. El usuario debe indicar inicialmente el número total de estudiantes que desea evaluar. Posteriormente, para cada estudiante el sistema debe solicitar el promedio final obtenido.
 
-***Reglas:*** <br>
+### ***Reglas:*** <br>
 - Si la nota está en el rango de 7.0 a 10.0, se muestra en pantalla: "Estudiante APROBADO".<br>
 - Si la nota está en el rango de 5.0 a menos de 7.0, se muestra en pantalla: "Estudiante en SUPLETORIO".<br>
 - Si la nota está en el rango de 0.0 a menos de 5.0, se muestra en pantalla: "Estudiante REPROBADO".<br>
@@ -251,7 +251,7 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 
 ### D. Codificación (Prueba de escritorio): 
 <div align="center">
-  s
+  <img width="722" height="289" alt="Image" src="https://github.com/user-attachments/assets/a733a664-a9e1-4419-99b7-36bfcaf868a1" />
 </div>
 
 ### E. Validación (Código fuente): 
