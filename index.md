@@ -271,6 +271,17 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
   <img width="722" height="289" alt="Image" src="https://github.com/user-attachments/assets/a733a664-a9e1-4419-99b7-36bfcaf868a1" />
 </div>
 
+<div align="center">
+  
+  ***Prueba de escritorio:***
+  
+  |**Numero de estudiantes** | **Nota de cada estudiante** | **Salida** |
+  |---|---|---|
+  ne = 3 <br>|Nota estudiante 1 = 8.00 <br> Nota estudiante 2 = 6.80 <br> Nota estudiante 3 = 3.00 | Nota estudiante 1 = APROBADO <br> Nota estudiante 2 = EN SUPLETORIO <br> Nota estudiante 3 = REPROBADO |
+  
+  
+</div>
+
 ---
 
 ## 3. Reflexión Crítica
