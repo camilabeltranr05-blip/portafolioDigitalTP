@@ -235,10 +235,10 @@
 - ### A. Planteamiento del problema:
 #### ***Descripción:*** El programa tiene como objetivo registrar y verificar de forma secuencial el estado académico de un grupo de estudiantes de la Universidad Nacional de Loja. El usuario debe indicar inicialmente el número total de estudiantes que desea evaluar. Posteriormente, para cada estudiante, el sistema debe solicitar la calificación o promedio final obtenido. <br>
 ***Reglas:*** <br>
-Si la nota está en el rango de 7.0 a 10.0, se muestra en pantalla: "Estudiante APROBADO".<br>
-Si la nota está en el rango de 5.0 a menos de 7.0, se muestra en pantalla: "Estudiante en SUPLETORIO".<br>
-Si la nota está en el rango de 0.0 a menos de 5.0, se muestra en pantalla: "Estudiante REPROBADO".<br>
-Si se ingresa una nota fuera del rango permitido (nota< 0 o nota> 10), el programa debe volver a solicitar la calificación haciendo uso de un ciclo de validación interactivo.<br>
+- Si la nota está en el rango de 7.0 a 10.0, se muestra en pantalla: "Estudiante APROBADO".<br>
+- Si la nota está en el rango de 5.0 a menos de 7.0, se muestra en pantalla: "Estudiante en SUPLETORIO".<br>
+- Si la nota está en el rango de 0.0 a menos de 5.0, se muestra en pantalla: "Estudiante REPROBADO".<br>
+- Si se ingresa una nota fuera del rango permitido (nota< 0 o nota> 10), el programa debe volver a solicitar la calificación haciendo uso de un ciclo de validación interactivo.<br>
 
 - ### B. Análisis del problema:
 - ### C. Diseño del algoritmo (Diagrama de flujo): 
