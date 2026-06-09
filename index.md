@@ -251,7 +251,7 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
   
   |**Datos de entrada** | **Proceso** | **Salida** |
   |---|---|---|
-  * Cantidad de estudiantes <br> * Nota de cada estudiante|* Contador = 1 <br> * Evaluar si la nota entra en alguna estructura condicional <br> * Contador++ | Evaluar si la nota de cada estudiante es aprobado, supletorio o reprobado |
+  Cantidad de estudiantes <br> Nota de cada estudiante|Contador = 1 <br> Evaluar si la nota entra en alguna estructura condicional <br> Contador++ | Evaluar si la nota de cada         estudiante es aprobado, supletorio o reprobado |
   
   
 </div>
