@@ -272,6 +272,7 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 </div>
 
 <div align="center">
+  
   |**Numero de estudiantes** | **Nota de cada estudiante** | **Salida** |
   |---|---|---|
   ne = 3 <br>|Nota estudiante 1 = 8.00 <br> Nota estudiante 2 = 6.80 <br> Nota estudiante 3 = 3.00 | Estudiante 1 = APROBADO <br> Estudiante 2 = EN SUPLETORIO <br> Estudiante 3 = REPROBADO |
