@@ -244,19 +244,31 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 - Si se ingresa una nota fuera del rango permitido (nota< 0 o nota> 10), el programa debe volver a solicitar la calificación haciendo uso de un ciclo de validación interactivo.<br>
 
 >### B. Análisis del problema:
+
+<div align="center">
+  
+  ***TIPO DE DATOS***
+  
+  |**Datos de entrada** | **Proceso** | **Salida** |
+  |---|---|---|
+  Cantidad de estudiantes <br> Nota de cada estudiante |Evaluar si la nota entra en alguna estructura condicional | Evaluar si la nota es aprobado, supletorio o reprobado |
+  
+  
+</div>
+
 >### C. Diseño del algoritmo (Diagrama de flujo): 
 <div align="center">
   <img width="452" height="672" alt="Image" src="xx"/> 
 </div>
 
->### D. Codificación (Prueba de escritorio): 
-<div align="center">
-  <img width="722" height="289" alt="Image" src="https://github.com/user-attachments/assets/a733a664-a9e1-4419-99b7-36bfcaf868a1" />
-</div>
-
->### E. Validación (Código fuente): 
+>### D. Codificación (Código fuente):
 <div align="center">
   <img width="896" height="450" alt="Image" src="https://github.com/user-attachments/assets/fa8953e5-02d7-49f7-87c1-68c0a03aa324" />
+</div>
+
+>### E. Validación (Prueba de escritorio): 
+<div align="center">
+  <img width="722" height="289" alt="Image" src="https://github.com/user-attachments/assets/a733a664-a9e1-4419-99b7-36bfcaf868a1" />
 </div>
 
 ---
