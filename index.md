@@ -232,7 +232,7 @@
 
 >## ***2. Ejercicio con estructura condicional y repetitiva***
 
-### A. Planteamiento del problema:
+>### A. Planteamiento del problema:
 
 ### ***Descripción:*** 
 El programa tiene como objetivo registrar y verificar de forma secuencial el estado académico de un grupo de estudiantes. El usuario debe indicar inicialmente el número total de estudiantes que desea evaluar. Posteriormente, para cada estudiante el sistema debe solicitar el promedio final obtenido.
@@ -243,18 +243,18 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 - Si la nota está en el rango de 0.0 a menos de 5.0, se muestra en pantalla: "Estudiante REPROBADO".<br>
 - Si se ingresa una nota fuera del rango permitido (nota< 0 o nota> 10), el programa debe volver a solicitar la calificación haciendo uso de un ciclo de validación interactivo.<br>
 
-### B. Análisis del problema:
-### C. Diseño del algoritmo (Diagrama de flujo): 
+>### B. Análisis del problema:
+>### C. Diseño del algoritmo (Diagrama de flujo): 
 <div align="center">
   <img width="452" height="672" alt="Image" src="xx"/> 
 </div>
 
-### D. Codificación (Prueba de escritorio): 
+>### D. Codificación (Prueba de escritorio): 
 <div align="center">
   <img width="722" height="289" alt="Image" src="https://github.com/user-attachments/assets/a733a664-a9e1-4419-99b7-36bfcaf868a1" />
 </div>
 
-### E. Validación (Código fuente): 
+>### E. Validación (Código fuente): 
 <div align="center">
   <img width="896" height="450" alt="Image" src="https://github.com/user-attachments/assets/fa8953e5-02d7-49f7-87c1-68c0a03aa324" />
 </div>
@@ -283,7 +283,8 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 # Bibliografía
 #### [1] P. Novara, "PSeInt: Intérprete de pseudocódigo," 2024. [En línea]. Disponible en: http://pseint.sourceforge.net/
 #### [2] Microsoft, "Visual Studio Code," v. 1.88, 2024. [En línea]. Disponible en: https://code.visualstudio.com/
-#### [3] Google Mind, "Gemini: Modelo de lenguaje de gran escala," 2024. [En línea]. Disponible en: https://gemini.google.com/
+#### [3] JGraph Ltd., draw.io (o diagrams.net), versión 24.4.0. [Software de computación]. Reino Unido, 2026. Disponible en: https://app.diagrams.net/
+#### [4] Google Mind, "Gemini: Modelo de lenguaje de gran escala," 2024. [En línea]. Disponible en: https://gemini.google.com/
 <br><br>
 
 <div align="center">
