@@ -264,7 +264,7 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 
 >### C. Diseño del algoritmo (Diagrama de flujo): 
 <div align="center">
-  <img width="968" height="1646" alt="Image" src="https://github.com/user-attachments/assets/7d3d3325-79c1-4150-81eb-c242a8dfffc6" />
+  <img width="899" height="1646" alt="Image" src="https://github.com/user-attachments/assets/96958b1e-664a-428a-ba56-acaa38d39496" />
 </div>
 
 >### D. Codificación (Código fuente):
