@@ -351,6 +351,7 @@ Un arreglo es una estructura de datos homogénea, estática y ordenada que permi
 - ***Estática:*** Su tamaño total se define al momento de su creación y no puede modificarse durante la ejecución del programa.
 - ***Ordenada:*** Cada elemento ocupa una posición fija y consecutiva en la memoria, identificada mediante un índice numérico que comienza estrictamente desde la posición 0.
 <br>
+
 >### **B. Tipos de Arreglos**
 ####
 Los arreglos se clasifican según el número de dimensiones que manejan para organizar la información:
