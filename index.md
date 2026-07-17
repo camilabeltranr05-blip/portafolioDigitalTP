@@ -376,7 +376,7 @@ Los arreglos se clasifican según el número de dimensiones que manejan para org
 
 <div align="center">
   
-<img width="345" height="473" alt="image" src="https://github.com/user-attachments/assets/3e0a8a50-994e-44d6-abd3-7275e5c4c6d7" />
+<img width="345" height="473" alt="image" src="https://github.com/user-attachments/assets/3e0a8a50-994e-44d6-abd3-7275e5c4c6d7" /> <br>
 <img width="424" height="144" alt="image" src="https://github.com/user-attachments/assets/e2c3ee2e-45c4-4cdc-bc76-e0719db13858" />
 
 </div>
