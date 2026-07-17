@@ -319,12 +319,13 @@ Para que los módulos se comuniquen entre sí, se utilizan parámetros, los cual
 <br>
 
 >### **B. Ejemplo con pase de parámetros por valor*
-***Problema*** Simulador de conversión de divisas, calculando el equivalente en Euros (€) a partir de una cantidad de Dólares ($) ingresada por el usuario utilizando 2 funciones: int main y float convertirAEuros.
+***Problema:*** Simulador de conversión de divisas, calculando el equivalente en Euros (€) a partir de una cantidad de Dólares ($) ingresada por el usuario utilizando 2 funciones: int main y float convertirAEuros.
 <br>
 
 <div align="center">
   
   <img width="663" height="405" alt="image" src="https://github.com/user-attachments/assets/a90076d7-23a7-43cc-8b71-6437433a7fd9" />
+  <img width="583" height="107" alt="image" src="https://github.com/user-attachments/assets/efc91071-bb88-4fe5-92af-133d953d2ce2" />
 
 </div>
 
