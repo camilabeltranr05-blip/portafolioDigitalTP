@@ -302,20 +302,32 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 
 # Unidad 3
 ## ***1. Modularidad***
->### ***A. Teoría**
+>### **A. Teoría**
 ####
-La modularidad es un principio de diseño de software que consiste en dividir un programa informático en partes más pequeñas e independientes llamadas módulos (también conocidos como subprogramas, funciones o métodos). Cada uno de estos módulos se encarga de resolver una tarea o subproblema específico dentro del sistema general.
+La modularidad es un principio de diseño de software que consiste en dividir un programa informático en partes más pequeñas e independientes llamadas módulos (también conocidos como subprogramas, funciones o métodos). Cada uno de estos módulos se encarga de resolver una tarea o subproblema específico dentro del sistema general. De esta forma la modularidad permite que el código sea:
+- Reutilizable
+- Más legible
+- Fácil de mantener y depurar
+<br>
+Para que los módulos se comuniquen entre sí, se utilizan parámetros, los cuales son variables que permiten transferir datos hacia el interior de un método al momento de ser invocado. Existen dos formas conceptuales de transferir esta información:
 
->### ***B. Ejemplo con pase de parámetros por valor**
->### ***C. Ejemplo con pase de parámetros por referencia** 
+Paso por Valor: Se crea una copia exacta del valor de la variable original y se le entrega al método. Cualquier modificación que se realice sobre esta variable dentro del método no afecta a la variable original fuera de él, ya que operan en zonas de memoria distintas.
+
+Paso por Referencia: En lugar de copiar el dato, se pasa la dirección de memoria donde se encuentra almacenado el objeto o estructura. Por lo tanto, cualquier cambio que realice el método sobre los datos se reflejará de forma inmediata y permanente en la variable original fuera de él.
+<br>
+
+>### **B. Ejemplo con pase de parámetros por valor*
+#### Problema: 
+
+>### **C. Ejemplo con pase de parámetros por referencia*
 
 ---
 
 ## ***1. Arreglos***
->### ***A. Teoría** 
->### ***B. Ejemplo con arreglo unidimensional**
->### ***C. Ejemplo con arreglo bidimensional** 
->### ***D. Ejemplo con arreglo tridimensional** 
+>### **A. Teoría** 
+>### **B. Ejemplo con arreglo unidimensional**
+>### **C. Ejemplo con arreglo bidimensional** 
+>### **D. Ejemplo con arreglo tridimensional** 
 
 
 ---
