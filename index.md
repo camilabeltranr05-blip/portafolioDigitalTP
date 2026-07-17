@@ -330,7 +330,7 @@ Para que los módulos se comuniquen entre sí, se utilizan parámetros, los cual
 </div>
 
 >### **C. Ejemplo con pase de parámetros por referencia*
-***Problema:*** Simulador de conversión de divisas, calculando el equivalente en Euros (€) a partir de una cantidad de Dólares ($) ingresada por el usuario utilizando 2 funciones: int main y float convertirAEuros.
+***Problema:*** Se requiere diseñar un sistema en lenguaje C para intercambiar simultáneamente los puntajes de dos jugadores al final de una partida. Para ello se deben utilizar 3 funciones con paso de parámetros por referencia: ingresarPuntajes, intercambiarPuntajes, mostrarPuntajes. 
 <br>
 
 <div align="center">
