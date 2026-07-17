@@ -354,7 +354,6 @@ Un arreglo es una estructura de datos homogénea, estática y ordenada que permi
 >### **B. Tipos de Arreglos**
 ####
 Los arreglos se clasifican según el número de dimensiones que manejan para organizar la información:
-
 - ***Arreglos Unidimensionales (Vectores):*** Son estructuras lineales que manejan una sola dimensión. Para acceder a cualquier elemento basta con especificar un único índice que representa su posición en la fila (ej. vector[i]).
 - ***Arreglos Bidimensionales (Matrices):*** Son estructuras organizadas en forma de tabla bidimensional, compuestas por filas y columnas. Requieren dos índices para acceder a un elemento: el primero para la fila y el segundo para la columna (ej. matriz[i][j]).
 - ***Arreglos Tridimensionales (Cubos/Bloques):*** Son estructuras de datos que añaden una tercera dimensión (profundidad). Se pueden imaginar como un cubo o una colección de varias matrices apiladas. Para acceder a un dato específico se necesitan tres índices obligatoriamente: fila, columna y plano o profundidad (ej. arreglo[i][j][k]).
