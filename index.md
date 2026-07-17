@@ -370,9 +370,26 @@ Los arreglos se clasifican según el número de dimensiones que manejan para org
 
 </div>
 
->### **D. Ejemplo con arreglo bidimensional** 
->### **E. Ejemplo con arreglo tridimensional** 
+>### **D. Ejemplo con arreglo bidimensional**
+***Problema:*** Este programa gestiona el inventario de una tienda utilizando una matriz bidimensional de enteros de $3 \times 3$, donde las filas representan los productos (camisetas, pantalones y zapatos) y las columnas representan las tallas (S, M y L). La solución aplica modularidad al dividir las responsabilidades en 2 funciones de tipo void: ingresarInventario, que recorre secuencialmente la cuadrícula mediante ciclos anidados para capturar por teclado y almacenar las cantidades en cada coordenada [i][j], y mostrarInventario, que lee la estructura de datos para imprimir el reporte final de stock ordenado en forma de tabla física mediante saltos de línea estratégicos.
+<br>
 
+<div align="center">
+  
+<img width="345" height="473" alt="image" src="https://github.com/user-attachments/assets/3e0a8a50-994e-44d6-abd3-7275e5c4c6d7" />
+<img width="424" height="144" alt="image" src="https://github.com/user-attachments/assets/e2c3ee2e-45c4-4cdc-bc76-e0719db13858" />
+
+</div>
+
+>### **E. Ejemplo con arreglo tridimensional** 
+***Problema:*** s
+<br>
+
+<div align="center">
+  
+
+
+</div>
 
 ---
 
