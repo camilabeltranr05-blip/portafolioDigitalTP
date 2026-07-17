@@ -311,6 +311,7 @@ La modularidad es un principio de diseño de software que consiste en dividir un
 <br>
 Para que los módulos se comuniquen entre sí, se utilizan parámetros, los cuales son variables que permiten transferir datos hacia el interior de un método al momento de ser invocado. Existen dos formas conceptuales de transferir esta información:
 <br>
+<br>
 
 ***Paso por Valor:*** Se crea una copia exacta del valor de la variable original y se le entrega al método. Cualquier modificación que se realice sobre esta variable dentro del método no afecta a la variable original fuera de él, ya que operan en zonas de memoria distintas.
 
@@ -318,7 +319,14 @@ Para que los módulos se comuniquen entre sí, se utilizan parámetros, los cual
 <br>
 
 >### **B. Ejemplo con pase de parámetros por valor*
-#### Problema: 
+***Problema*** Simulador de conversión de divisas, calculando el equivalente en Euros (€) a partir de una cantidad de Dólares ($) ingresada por el usuario utilizando 2 funciones: int main y float convertirAEuros.
+<br>
+
+<div align="center">
+  
+  <img width="663" height="405" alt="image" src="https://github.com/user-attachments/assets/a90076d7-23a7-43cc-8b71-6437433a7fd9" />
+
+</div>
 
 >### **C. Ejemplo con pase de parámetros por referencia*
 
