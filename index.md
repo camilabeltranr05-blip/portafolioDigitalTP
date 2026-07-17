@@ -360,6 +360,16 @@ Los arreglos se clasifican según el número de dimensiones que manejan para org
 - ***Arreglos Tridimensionales (Cubos/Bloques):*** Son estructuras de datos que añaden una tercera dimensión (profundidad). Se pueden imaginar como un cubo o una colección de varias matrices apiladas. Para acceder a un dato específico se necesitan tres índices obligatoriamente: fila, columna y plano o profundidad (ej. arreglo[i][j][k]).
 
 >### **C. Ejemplo con arreglo unidimensional**
+***Problema:*** Este programa simula el cobro de 6 productos en una caja registradora mediante un arreglo unidimensional (vector) de tipo flotante para almacenar los precios de forma secuencial. La solución se divide en 2 funciones independientes: ingresarPrecios, que recorre los índices del vector (0 al 5) para capturar los costos por teclado y retornar la sumatoria total calculada, y mostrarLista, que recibe ese total acumulado para desplegar el valor neto final formateado en la pantalla.
+<br>
+
+<div align="center">
+  
+<img width="557" height="555" alt="image" src="https://github.com/user-attachments/assets/20c64925-5875-40d6-b869-fe0d28893a44" />
+<img width="583" height="276" alt="image" src="https://github.com/user-attachments/assets/e7f0611b-6677-4cc6-9456-5bdce99a75d3" />
+
+</div>
+
 >### **D. Ejemplo con arreglo bidimensional** 
 >### **E. Ejemplo con arreglo tridimensional** 
 
