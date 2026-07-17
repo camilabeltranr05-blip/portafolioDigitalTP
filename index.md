@@ -302,9 +302,12 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 
 # Unidad 3
 ## ***1. Modularidad***
->### ***A. Teoría** 
+>### ***A. Teoría**
+####
+La modularidad es un principio de diseño de software que consiste en dividir un programa informático en partes más pequeñas e independientes llamadas módulos (también conocidos como subprogramas, funciones o métodos). Cada uno de estos módulos se encarga de resolver una tarea o subproblema específico dentro del sistema general.
+
 >### ***B. Ejemplo con pase de parámetros por valor**
->### ***B. Ejemplo con pase de parámetros por referencia** 
+>### ***C. Ejemplo con pase de parámetros por referencia** 
 
 ---
 
