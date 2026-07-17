@@ -344,10 +344,24 @@ Para que los módulos se comuniquen entre sí, se utilizan parámetros, los cual
 ---
 
 ## ***2. Arreglos***
->### **A. Teoría** 
->### **B. Ejemplo con arreglo unidimensional**
->### **C. Ejemplo con arreglo bidimensional** 
->### **D. Ejemplo con arreglo tridimensional** 
+>### **A. Teoría**
+####
+Un arreglo es una estructura de datos homogénea, estática y ordenada que permite almacenar una colección finita de elementos del mismo tipo (por ejemplo, todos enteros, todos flotantes o todos caracteres) bajo un único nombre de variable.
+- ***Homogénea:*** Todos sus componentes deben ser del mismo tipo de datos.
+- ***Estática:*** Su tamaño total se define al momento de su creación y no puede modificarse durante la ejecución del programa.
+- ***Ordenada:*** Cada elemento ocupa una posición fija y consecutiva en la memoria, identificada mediante un índice numérico que comienza estrictamente desde la posición 0.
+<br>
+>### **B. Tipos de Arreglos**
+####
+Los arreglos se clasifican según el número de dimensiones que manejan para organizar la información:
+
+- ***Arreglos Unidimensionales (Vectores):*** Son estructuras lineales que manejan una sola dimensión. Para acceder a cualquier elemento basta con especificar un único índice que representa su posición en la fila (ej. vector[i]).
+- ***Arreglos Bidimensionales (Matrices):*** Son estructuras organizadas en forma de tabla bidimensional, compuestas por filas y columnas. Requieren dos índices para acceder a un elemento: el primero para la fila y el segundo para la columna (ej. matriz[i][j]).
+- ***Arreglos Tridimensionales (Cubos/Bloques):*** Son estructuras de datos que añaden una tercera dimensión (profundidad). Se pueden imaginar como un cubo o una colección de varias matrices apiladas. Para acceder a un dato específico se necesitan tres índices obligatoriamente: fila, columna y plano o profundidad (ej. arreglo[i][j][k]).
+
+>### **C. Ejemplo con arreglo unidimensional**
+>### **D. Ejemplo con arreglo bidimensional** 
+>### **E. Ejemplo con arreglo tridimensional** 
 
 
 ---
