@@ -301,8 +301,32 @@ El programa tiene como objetivo registrar y verificar de forma secuencial el est
 ---
 
 # Unidad 3
-## NO APLICA
-<br><br>
+## ***1. Modularidad***
+>### ***A. Teoría** 
+>### ***B. Ejemplo con pase de parámetros por valor**
+>### ***B. Ejemplo con pase de parámetros por referencia** 
+
+---
+
+## ***1. Arreglos***
+>### ***A. Teoría** 
+>### ***B. Ejemplo con arreglo unidimensional**
+>### ***C. Ejemplo con arreglo bidimensional** 
+>### ***D. Ejemplo con arreglo tridimensional** 
+
+
+---
+
+## 3. Reflexión Crítica
+
+- Principales dificultades y reflexion critia de la aplicacion de los contenidos
+
+<div align="center">
+  
+[![Secciones del portafolio](https://img.shields.io/badge/SECCIONES_DEL_PORTAFOLIO-4CAF50?style=for-the-badge)](#secciones-del-portafolio) <br>
+</div>
+
+<br><br><br><br>
 
 ---
 
