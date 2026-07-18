@@ -382,12 +382,13 @@ Los arreglos se clasifican según el número de dimensiones que manejan para org
 </div>
 
 >### **E. Ejemplo con arreglo tridimensional** 
-***Problema:*** s
+***Problema:*** Este ejercicio simula el control de ocupación en un pequeño hotel de 2 pisos, donde cada piso tiene una cuadrícula de 2 filas y 2 columnas de habitaciones. Para resolverlo, se utiliza un arreglo tridimensional (un cubo de datos) donde el primer índice representa los pisos, el segundo las filas y el tercero las columnas. El programa utiliza 2 funciones especializadas (ingresarHotel y mostrarHotel) además del main para separar limpiamente la captura de datos de la impresión del reporte final.
 <br>
 
 <div align="center">
-  
 
+  <img width="773" height="604" alt="image" src="https://github.com/user-attachments/assets/425ba5a1-0e0c-42ff-9b43-fde8f3dbfb09" />
+  <img width="618" height="454" alt="image" src="https://github.com/user-attachments/assets/446044bd-1c9a-44c7-95f4-9f4ce9a06779" />
 
 </div>
 
@@ -414,10 +415,10 @@ Los arreglos se clasifican según el número de dimensiones que manejan para org
 
 # Bibliografía
 ####
-- [1] P. Novara, "PSeInt: Intérprete de pseudocódigo," 2024. [En línea]. Disponible en: http://pseint.sourceforge.net/
-- [2] Microsoft, "Visual Studio Code," v. 1.88, 2024. [En línea]. Disponible en: https://code.visualstudio.com/
-- [3] JGraph Ltd., draw.io (o diagrams.net), versión 24.4.0. [Software de computación]. Reino Unido, 2026. Disponible en: https://app.diagrams.net/
-- [4] Google Mind, "Gemini: Modelo de lenguaje de gran escala," 2024. [En línea]. Disponible en: https://gemini.google.com/
+[1] P. Novara, "PSeInt: Intérprete de pseudocódigo," 2024. [En línea]. Disponible en: http://pseint.sourceforge.net/
+[2] Microsoft, "Visual Studio Code," v. 1.88, 2024. [En línea]. Disponible en: https://code.visualstudio.com/
+[3] JGraph Ltd., draw.io (o diagrams.net), versión 24.4.0. [Software de computación]. Reino Unido, 2026. Disponible en: https://app.diagrams.net/
+[4] Google Mind, "Gemini: Modelo de lenguaje de gran escala," 2024. [En línea]. Disponible en: https://gemini.google.com/
 
 <br><br>
 
