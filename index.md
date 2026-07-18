@@ -396,7 +396,7 @@ Los arreglos se clasifican según el número de dimensiones que manejan para org
 
 ## 3. Reflexión Crítica
 
-- Principales dificultades y reflexion critia de la aplicacion de los contenidos
+- Al finalizar con la Unidad 3, puedo determinar que el salto hacia la modularidad y el manejo de estructuras avanzadas representó uno de los mayores desafíos lógicos que vi en la materia. Mi principal dificultad se centró en asimilar el concepto de modularidad y comprender con exactitud cómo funciona el paso de parámetros por referencia, ya que al principio me resultaba complejo visualizar cómo las funciones interactuaban directamente con las direcciones de memoria de las variables originales. Sin embargo, a través de la práctica con arreglos de una, dos y tres dimensiones, logré comprender que separar el código es clave para estructurar programas limpios y fáciles de depurar. Esta unidad cambió mi perspectiva, enseñándome que la verdadera eficiencia radica en organizar la información y las responsabilidades del sistema de manera estratégica.
 
 <div align="center">
   
@@ -408,7 +408,7 @@ Los arreglos se clasifican según el número de dimensiones que manejan para org
 ---
 
 # Conclusiones Generales
-## NO APLICA
+- En conclusión, al finalizar con el primer ciclo y documentar todos los temas dentro de este portafolio, he aprendido a resolver problemas reales mediante una computadora. Comencé con la Unidad 1, donde aprendí sobre el diseño lógico de algoritmos y diagramas de flujo para estructurar pasos ordenados. En la Unidad 2 avancé gracias a las estructuras condicionales y los ciclos, los cuales le permiten a un programa tomar decisiones y repetir tareas de forma automática. Finalmente, al concluir la Unidad 3, aprendí a aplicar la modularidad para dividir el código en funciones reutilizables y organizar datos complejos dentro de tres tipos de arreglos (listas, matrices y bloques 3D). A futuro, dominar estas bases no solo me servirá para escribir código limpio y eficiente en lenguajes más avanzados, sino que desarrollará en mí un pensamiento analítico y estructurado, indispensable para diseñar software profesional y resolver cualquier desafío de ingeniería de forma óptima.
 <br><br>
 
 ---
